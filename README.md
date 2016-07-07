@@ -1,4 +1,4 @@
-# ChinaTunnel (require root)
+# ChinaTunnel (requires root)
 一个可以在Android设备上解锁中国视频和音乐的软件。
 How to use：
 首先你的设备必须可以获取root权限，否则切勿安装。
