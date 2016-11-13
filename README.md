@@ -87,6 +87,7 @@ How to use：
 如果您使用中有任何问题，或者想增加新的解锁网站，请在issues里进行反馈！！
 
 一些需要注意的问题：
+
 1.有些用户在root的时候使用的是360的root工具，或者Kinguser的root授权工具，这些工具会和chinatunnel有兼容性的问题，主要是原因是因为这些工具在root授权上有bug，因此如果您的手机root了但是却无法开启chinatunnel,请检查是不是这个原因引起的；
 
 2. 有些手机本身的ROM内核有bug,有此问题的是ROM主要是cyanogenmod制作的nightly ROM，还有更新非常频繁的魅族手机的ROM。如果您的使用了这两类ROM，chinatunnel开启了却无法解锁，那一定是ROM内核的问题。请尝试刷不同的ROM版本，多尝试几个版本就会碰到一个没有bug的ROM了，chinatunnel就可以正常工作了。
