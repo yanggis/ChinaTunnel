@@ -39,6 +39,15 @@ How to use： 首先你的設備必須可以獲取root權限，否則切勿安�
 
 7.不要把Chinatunnel其他解鎖方案同時運行，尤其是不要把Chinatunnel和DNS解鎖服務器同時配置。如果你安裝了Chinatunnel，請把您的DNS設置為默認。
 
+
+一些需要註意的問題：
+
+1.有些用戶在root的時候使用的是360的root工具，或者Kinguser的root授權工具，這些工具會和chinatunnel有兼容性的問題，主要是原因是因為這些工具在root授權上有bug，因此如果您的手機root了但是卻無法開啟chinatunnel,請檢查是不是這個原因引起的；
+
+2. 有些手機本身的ROM內核有bug,有此問題的是ROM主要是cyanogenmod制作的nightly ROM，還有更新非常頻繁的魅族手機的ROM。如果您的使用了這兩類ROM，chinatunnel開啟了卻無法解鎖，那一定是ROM內核的問題。請嘗試刷不同的ROM版本，多嘗試幾個版本就會碰到一個沒有bug的ROM了，chinatunnel就可以正常工作了。
+
+3. 有些電視盒子的ROM把菜單條模塊閹割了，致使chinatunnel的菜單模塊無法正常顯示。如果您碰到此問題，可以用這種辦法開啟chinatunnel:在盒子上打開chinatunnel，選中開機啟動，選中後直接把你盒子的電源拔掉斷電，等2分鐘再插上，看看盒子啟動的時候有沒有提示“Chinatunnel已啟動”，如果提示這個就說明後臺解鎖服務已經運行了。就可以直接看視頻了。每次盒子重啟都會自動更新whitelist，您無需理會這個問題。
+
 如果您使用中有任何問題，或者想增加新的解鎖網站，請在issues裏進行反饋！！
 
 最後，感謝您的支持！
@@ -92,7 +101,7 @@ How to use：
 
 2. 有些手机本身的ROM内核有bug,有此问题的是ROM主要是cyanogenmod制作的nightly ROM，还有更新非常频繁的魅族手机的ROM。如果您的使用了这两类ROM，chinatunnel开启了却无法解锁，那一定是ROM内核的问题。请尝试刷不同的ROM版本，多尝试几个版本就会碰到一个没有bug的ROM了，chinatunnel就可以正常工作了。
 
-3. 有些电视盒子的ROM把菜单条模块阉割了，致使chinatunnel的菜单模块无法正常显示。如果您碰到此问题，可以用这种办法开启chinatunnel:在盒子上打开chinatunnel，选中开机启动，选中后直接把你盒子的电源拔掉断电，等2分钟再插上，看看盒子启动的时候有没有提示“Chinatunnel已启动”，如果提示这个就说明后台解锁服务已经运行了。就可以直接看视频了。每次盒子重启都会自动更新whitelist，您无需理会这个问题.
+3. 有些电视盒子的ROM把菜单条模块阉割了，致使chinatunnel的菜单模块无法正常显示。如果您碰到此问题，可以用这种办法开启chinatunnel:在盒子上打开chinatunnel，选中开机启动，选中后直接把你盒子的电源拔掉断电，等2分钟再插上，看看盒子启动的时候有没有提示“Chinatunnel已启动”，如果提示这个就说明后台解锁服务已经运行了。就可以直接看视频了。每次盒子重启都会自动更新whitelist，您无需理会这个问题。
 
 
 最后，感谢您的支持！
