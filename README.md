@@ -42,7 +42,7 @@ How to use： 首先你的設備必須可以獲取root權限，否則切勿安�
 
 一些需要註意的問題：
 
-1. 有些用戶在root的時候使用的是360的root工具，或者Kinguser的root授權工具，這些工具會和chinatunnel有兼容性的問題，主要是原因是因為這些工具在root授權上有bug，因此如果您的手機root了但是卻無法開啟chinatunnel,請檢查是不是這個原因引起的；
+1. 有些用戶在root的時候使用的是360的root工具，或者Kinguser的root授權工具，這些工具會和chinatunnel有兼容性的問題，主要是原因是因為這些工具在root授權上有bug(推薦用supersu.apk作為root授權工具)，因此如果您的手機root了但是卻無法開啟chinatunnel,請檢查是不是這個原因引起的；
 
 2. 有些手機本身的ROM內核有bug,有此問題的是ROM主要是cyanogenmod制作的nightly ROM，還有更新非常頻繁的魅族手機的ROM。如果您的使用了這兩類ROM，chinatunnel開啟了卻無法解鎖，那一定是ROM內核的問題。請嘗試刷不同的ROM版本，多嘗試幾個版本就會碰到一個沒有bug的ROM了，chinatunnel就可以正常工作了;
 
@@ -95,7 +95,7 @@ How to use：
 
 一些需要注意的问题：
 
-1. 有些用户在root的时候使用的是360的root工具，或者Kinguser的root授权工具，这些工具会和chinatunnel有兼容性的问题，主要是原因是因为这些工具在root授权上有bug，因此如果您的手机root了但是却无法开启chinatunnel,请检查是不是这个原因引起的；
+1. 有些用户在root的时候使用的是360的root工具，或者Kinguser的root授权工具，这些工具会和chinatunnel有兼容性的问题，主要是原因是因为这些工具在root授权上有bug(推荐用supersu.apk作为root授权工具)，因此如果您的手机root了但是却无法开启chinatunnel,请检查是不是这个原因引起的；
 
 2. 有些手机本身的ROM内核有bug,有此问题的是ROM主要是cyanogenmod制作的nightly ROM，还有更新非常频繁的魅族手机的ROM。如果您的使用了这两类ROM，chinatunnel开启了却无法解锁，那一定是ROM内核的问题。请尝试刷不同的ROM版本，多尝试几个版本就会碰到一个没有bug的ROM了，chinatunnel就可以正常工作了。
 
