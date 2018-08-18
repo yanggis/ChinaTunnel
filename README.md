@@ -1,7 +1,7 @@
 # ChinaTunnel (requires root)
 一個可以在Android設備上解鎖中國視頻和音樂的軟件。
 
-Why ChinaTunnel?
+## Why ChinaTunnel?
 
 ChinaTunnel的開發主要是為了解決以下問題：
 
@@ -23,7 +23,7 @@ ChinaTunnel的開發主要是為了解決以下問題：
 
 4. ChinaTunnel只會干預需要解鎖的link，對不需要解鎖的你仍然訪問的是你本地的離你最近的服務器，保證你訪問不需要解鎖的網站的時候依然有最快最穩定的網速。
 
-How to use： 首先你的設備必須可以獲取root權限，否則切勿安裝。
+## How to use： 首先你的設備必須可以獲取root權限，否則切勿安裝。
 
 1. 從Goolge Play下載本軟件安裝版，或者在Gooogle play搜索ChinaTunnel並安裝。
 
@@ -40,15 +40,11 @@ How to use： 首先你的設備必須可以獲取root權限，否則切勿安�
 7. 不要把Chinatunnel其他解鎖方案同時運行，尤其是不要把Chinatunnel和DNS解鎖服務器同時配置。如果你安裝了Chinatunnel，請把您的DNS設置為默認。
 
 
-一些需要註意的問題：
+## 一些需要註意的問題：
 
 1. 有些用戶在root的時候使用的是360的root工具，或者Kinguser的root授權工具，這些工具會和chinatunnel有兼容性的問題，主要是原因是因為這些工具在root授權上有bug(推薦用supersu.apk作為root授權工具)，因此如果您的手機root了但是卻無法開啟chinatunnel,請檢查是不是這個原因引起的；
 
 2. 有些手機本身的ROM內核有bug,有此問題的是ROM主要是cyanogenmod制作的nightly ROM，還有更新非常頻繁的魅族手機的ROM。如果您的使用了這兩類ROM，chinatunnel開啟了卻無法解鎖，那一定是ROM內核的問題。請嘗試刷不同的ROM版本，多嘗試幾個版本就會碰到一個沒有bug的ROM了，chinatunnel就可以正常工作了;
-
-3. 有些電視盒子的ROM把菜單條模塊閹割了，致使chinatunnel的菜單模塊無法正常顯示。如果您碰到此問題，可以用這種辦法開啟chinatunnel:在盒子上打開chinatunnel，選中開機啟動，選中後直接把你盒子的電源拔掉斷電，等2分鐘再插上，看看盒子啟動的時候有沒有提示“Chinatunnel已啟動”，如果提示這個就說明後臺解鎖服務已經運行了。就可以直接看視頻了。每次盒子重啟都會自動更新whitelist，您無需理會這個問題。
-
-4. B站客戶端請用最新版4.30版本，google play上的4.29.1已經作廢不允許連接B站服務器了。Google搜索安裝最新的4.30版本即可。
 
 如果您使用中有任何問題，或者想增加新的解鎖網站，請在issues裏進行反饋！！
 
@@ -56,7 +52,7 @@ How to use： 首先你的設備必須可以獲取root權限，否則切勿安�
 
 ********************************************************************************************************
 
-Why ChinaTunnel?
+## Why ChinaTunnel?
 
 ChinaTunnel的开发主要是为了解决以下问题：
 
@@ -78,7 +74,7 @@ ChinaTunnel的开发主要是为了解决以下问题：
 
 4. ChinaTunnel只会干预需要解锁的link，对不需要解锁的你仍然访问的是你本地的离你最近的服务器，保证你访问不需要解锁的网站的时候依然有最快最稳定的网速。
 
-How to use：
+## How to use：
 首先你的设备必须可以获取root权限，否则切勿安装。
 
 1. 从Goolge Play下载本软件安装版，或者在Gooogle play搜索ChinaTunnel并安装。
@@ -89,22 +85,15 @@ How to use：
 
 4. 如果您想一开机就启动ChinaTunnel，请在ChinaTunnel上选中开机启动项。
 
-5. 关于标准模式(standard mode)和省电模式(lite mode)的区别，标准模式是正常的解锁模式，理论上只要配置好白名单，可以解锁任何视频和音乐，包括DNS限制，IP限制以及域名混淆以及https加密等的视频和音乐网站。但是标准模式虽然强大，会有点耗电；如果你在手机上用，想省电可以选择省电模式(lite mode)。经多次测试省电模式仅仅会消耗电池电量的0.03%，耗电量几乎可以忽略。
+5. 关于自定义服务器，如果你在中国有自己的服务器，可以配置自己的http代理服务器。但是自己配置服务器仅能标准模式支持。
 
-6. 关于自定义服务器，如果你在中国有自己的服务器，可以配置自己的http代理服务器。但是自己配置服务器仅能标准模式支持。
+6. 不要把Chinatunnel其他解锁方案同时运行，尤其是不要把Chinatunnel和DNS解锁服务器同时配置。如果你安装了Chinatunnel，请把您的DNS设置为默认。
 
-7. 不要把Chinatunnel其他解锁方案同时运行，尤其是不要把Chinatunnel和DNS解锁服务器同时配置。如果你安装了Chinatunnel，请把您的DNS设置为默认。
-
-一些需要注意的问题：
+## 一些需要注意的问题：
 
 1. 有些用户在root的时候使用的是360的root工具，或者Kinguser的root授权工具，这些工具会和chinatunnel有兼容性的问题，主要是原因是因为这些工具在root授权上有bug(推荐用supersu.apk作为root授权工具)，因此如果您的手机root了但是却无法开启chinatunnel,请检查是不是这个原因引起的；
 
 2. 有些手机本身的ROM内核有bug,有此问题的是ROM主要是cyanogenmod制作的nightly ROM，还有更新非常频繁的魅族手机的ROM。如果您的使用了这两类ROM，chinatunnel开启了却无法解锁，那一定是ROM内核的问题。请尝试刷不同的ROM版本，多尝试几个版本就会碰到一个没有bug的ROM了，chinatunnel就可以正常工作了。
-
-3. 有些电视盒子的ROM把菜单条模块阉割了，致使chinatunnel的菜单模块无法正常显示。如果您碰到此问题，可以用这种办法开启chinatunnel:在盒子上打开chinatunnel，选中开机启动，选中后直接把你盒子的电源拔掉断电，等2分钟再插上，看看盒子启动的时候有没有提示“Chinatunnel已启动”，如果提示这个就说明后台解锁服务已经运行了。就可以直接看视频了。每次盒子重启都会自动更新whitelist，您无需理会这个问题。
-
-4. B站客户端请用最新版4.30版本，google play上的4.29.1已经作废不允许连接B站服务器了。Google搜索安装最新的4.30版本即可。
-
 
 如果您使用中有任何问题，或者想增加新的解锁网站，请在issues里进行反馈！！
 
