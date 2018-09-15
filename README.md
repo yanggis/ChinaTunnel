@@ -6,7 +6,7 @@
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/chinatunnelVPN2.jpg)
 连接参数，每个用户提供唯一访问端口和密码，避免多个用户共享带来的网络低效；
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/chinatunnelVPN1.jpg)
-可以访问http://pay.yanggis.com申请试用
+可以访问 http://pay.yanggis.com 申请试用
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/chinatunnelVPN3.jpg)
 
 ## Why ChinaTunnel?
