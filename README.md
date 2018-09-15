@@ -1,4 +1,4 @@
-# ChinaTunnel (requires root)
+# ChinaTunnel
 一個可以在Android設備上解鎖中國視頻和音樂的軟件。
 
 ## Why ChinaTunnel?
