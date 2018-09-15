@@ -1,6 +1,11 @@
 # ChinaTunnel
 一個可以在Android設備上解鎖中國視頻和音樂的軟件。
 
+#最新版chinatunnel无需root的VPN版本已经开发完成上线，欢迎下载使用；
+https://github.com/yanggis/ChinaTunnel/blob/master/chinatunnelVPN1.jpg?raw=true
+
+https://github.com/yanggis/ChinaTunnel/blob/master/chinatunnelVPN2.jpg?raw=true
+
 ## Why ChinaTunnel?
 
 ChinaTunnel的開發主要是為了解決以下問題：
