@@ -47,6 +47,7 @@ http://ipservice.163.com/isFromMainland
 查看返回结果是否为true，如果为true就说明手机处于中国大陆了。
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/12.jpg)
 
-
+# 2.8 最后可以切换回到ChinaTunnelVPN界面，看到VPN当前的消耗流量：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/13.jpg)
 
 最后，感谢您的支持！
