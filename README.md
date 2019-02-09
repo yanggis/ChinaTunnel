@@ -6,7 +6,7 @@
 
 
 ## 如何使用最新版的ChinaTunnelVPN
-# 第一部分：账号注册
+## 第一部分：账号注册
 # 1.1 在手机或者电脑上打开浏览器，输入网址http://pay.yanggis.com   打开以下界面开始注册：
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/0.jpg)
 
@@ -22,6 +22,14 @@
 # 1.5 打开服务器参数详情界面如下图，需要3个连接参数，分别是服务器地址，服务器端口和密码，在后面的ChinaTunnelVPN软件当中您会需要填入这三个参数，以下是系统分配给您的连接参数和ChinaTunnelVPN上的连接参数的对应关系：
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/04.jpg)
 
+## 第二部分，ChinaTunnelVPN软件配置：
+# 2.1 下载安装ChinaTunnelVPN,可以从本网址直接下载apk文件安装，需要特别注意，针对小米盒子3和小米盒子4，有专门的定制版，不要下载错了。下载安装完成后可以直接启动，启动界面如下图，第一步需要根据您从以上步骤获得配置参数填入到本VPN软件当中，可以点图中的小笔形状的图标开始编辑：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/1.jpg)
 
+# 2.2 打开编辑界面，可以先点击配置名称，为该配置设置一个容易记的名称：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/3.jpg)
+
+# 2.3 然后依次，根据修改服务器名称，连接端口和密码：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/2.jpg)
 
 最后，感谢您的支持！
