@@ -29,7 +29,24 @@
 # 2.2 打开编辑界面，可以先点击配置名称，为该配置设置一个容易记的名称：
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/3.jpg)
 
-# 2.3 然后依次，根据修改服务器名称，连接端口和密码：
+# 2.3 然后依次，根据修改服务器名称，连接端口和密码，并点对号按钮保存：
 ![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/2.jpg)
+
+# 2.4 然后回到主界面，并选中当前的配置文件，然后点橙色按钮启动VPN服务：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/9.jpg)
+
+# 2.5 VPN启动成功后会变成绿色：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/10.jpg)
+
+# 2.6 然后可以测试连接是否成功，需要注意的是，如果你是安装完之后第一次运行VPN，需要大概等1-2分钟再关闭VPN，然后再打开测试VPN是否可以正常初始化成功，第二次启动之后可以点连接测试，如果连接成功，就可以打开浏览器测试你是否在中国大陆了：
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/11.jpg)
+
+
+# 2.7 如果你是电视盒子，可以按要遥控上的主页键把VPN切换到后台，然后打开腾讯云视听或者爱奇艺等软件测试是否可以看视频，如果你是手机用户，可以按手机HOME键把VPN切换到后台，然后打开浏览器，输入以下网址：
+http://ipservice.163.com/isFromMainland
+查看返回结果是否为true，如果为true就说明手机处于中国大陆了。
+![image](https://raw.githubusercontent.com/yanggis/ChinaTunnel/master/img/12.jpg)
+
+
 
 最后，感谢您的支持！
