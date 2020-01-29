@@ -4,4 +4,7 @@
 
 ## 可以在手机或者电脑上打开浏览器，输入网址http://pay.yanggis.com   打开以下界面开始注册试用。
 
+## 如何使用请看这里：
+https://github.com/yanggis/ChinaTunnel/wiki
+
 最后，感谢您的支持！
